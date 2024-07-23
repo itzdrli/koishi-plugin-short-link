@@ -1,5 +1,5 @@
 {
-  "name": "@itzdrli/koishi-plugin-short-link",
+  "name": "koishi-plugin-short-link",
   "description": "Short Link Service Powered by l-i.biz",
   "version": "0.0.1",
   "main": "lib/index.js",
@@ -9,13 +9,11 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
   "keywords": [
     "chatbot",
     "koishi",
     "plugin"
   ],
-  "devDependencies": {},
   "peerDependencies": {
     "koishi": "^4.17.8"
   }
